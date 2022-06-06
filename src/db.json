@@ -18,6 +18,11 @@
         "name": "Megaminx",
         "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61HpQqVQ37L._SY355_.jpg",
         "difficultyLevel": 3
+    },
+    {
+        "name": "MoiKube",
+        "description": "Klasik",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRogrzeQ29MijH14Uk3gSZWYv0DJkSSOBRQMA&usqp=CAU",
+        "difficultyLevel": "1"
     }
-
 ]
