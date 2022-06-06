@@ -36,5 +36,12 @@
         "description": "some",
         "imageUrl": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/485188-Product-0-I-637412202137024960_1024x1024.jpg",
         "difficultyLevel": "1"
+    },
+    {
+        "id": 6,
+        "name": "Next Cube",
+        "description": "Some new",
+        "imageUrl": "https://5.imimg.com/data5/ZR/SD/WM/SELLER-13758313/rubiks-cube-500x500.jpg",
+        "difficultyLevel": "4"
     }
 ]
